@@ -2,5 +2,5 @@
   tasks:
   - name: Creating an empty file
     file:
-      path: "/opt/test-dir"
+      path: "/opt/test-dir/atsky"
       state: touch
